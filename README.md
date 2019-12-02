@@ -11,3 +11,5 @@ Android Studio version: 3.5
 Minimum SDK version: 15.
 
 Testing best on Pixel 3 API 26 emulator.
+
+# Check compiled file in Releases
